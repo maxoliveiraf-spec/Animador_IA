@@ -1,0 +1,5 @@
+{
+  "name": "AI Audio Animator",
+  "description": "Transforma áudio em animações com múltiplos estilos visuais (Ghibli, Pixar, Cyberpunk, etc.) e formatos (16:9 ou 9:16) usando Gemini AI e FFmpeg.",
+  "requestFramePermissions": []
+}
