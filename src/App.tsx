@@ -8,8 +8,6 @@ import { motion, AnimatePresence } from 'motion/react';
 import coreURL from '@ffmpeg/core?url';
 import wasmURL from '@ffmpeg/core/wasm?url';
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-
 type Scene = {
   startTime: number;
   endTime: number;
